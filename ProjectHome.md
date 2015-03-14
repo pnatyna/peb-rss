@@ -1,0 +1,1 @@
+Program pobiera informacje o najnowszych filmach HQ z serwisu peb.pl. Wykorzystano libcurl do transferu danych.
